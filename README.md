@@ -1,2 +1,2 @@
 # LightLoc
-Code will be maintained and updated soon!!
+The code will be released in stages.
